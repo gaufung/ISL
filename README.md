@@ -11,6 +11,8 @@ In the book, the authors use *R* language as tool to illustrate the every approa
 - matplotlib
 - pandas
 - sci-kit learning
+- StatModels
+- seaborn
 
 # Organzation
 
@@ -20,5 +22,5 @@ The folder contatins all data used in this book.
 ## Chapter**.ipynb
 The learn notes about this book by individual chapter, except the chapter 1
 
-## exercise
+## exercises
 The exercises in each chapter.
