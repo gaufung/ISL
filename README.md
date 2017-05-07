@@ -19,6 +19,9 @@ In the book, the authors use *R* language as tool to illustrate the every approa
 ## data 
 The folder contatins all data used in this book.
 
+## training-material
+The libraries learning notes
+
 ## Chapter**.ipynb
 The learn notes about this book by individual chapter, except the chapter 1
 
